@@ -37,4 +37,4 @@ echo $controller->{$data[1]}();
 //echo $controller->{$data[1]}();
 //echo "<br>";
 //echo call_user_func_array([$controller, "index"], $data); 
- //*/
+ */
